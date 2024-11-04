@@ -4,14 +4,14 @@
 This project is to make a forum where students can collaborate with eachother to come up with and create personal projects. These projects will greatly increase confidence, knowledge, and skill within their desired field, based on the projects that are worked on and posted in this forum.
 
 ## Objectives
-- **(Objective 1)**: (Have a platform that students users to post their ideas/problems, and a way to connect with students (i.e. link to a discord channel).)
-- **(Objective 2)**: (Try and integrate our idea into the school's website.)
-- **(Objective 3)**: (Information page about the major.)
+- **Objective 1**: Have a platform that students users to post their ideas/problems, and a way to connect with students (i.e. link to a discord channel).
+- **Objective 2**: Try and integrate our idea into the school's website.
+- **Objective 3**: Information page about the major.
 
 ## Key Features
-- **User Profiles**: (Hopefully eventually link with school's profile system)
-- **Project Submission**: (Post projects on a forum page for other to discover)
-- **Collaboration Tools**: (Link discord channels, adds to personal portfolios through GitHub)
+- **User Profiles**: Hopefully eventually link with school's profile system.
+- **Project Submission**: Post projects on a forum page for other to discover.
+- **Collaboration Tools**: Link discord channels, adds to personal portfolios through GitHub.
 
 ## Tech Stack
 - **Frontend**: (e.g., "React for user interface, Bootstrap for design.")
