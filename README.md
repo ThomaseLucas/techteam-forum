@@ -26,7 +26,7 @@ This project is to make a forum where students can collaborate with eachother to
 4. **Milestone 4**: (e.g., "Integrate portfolio linking.")
 
 ## Future Improvements
-- **(Improvement 1)**: (Describe, e.g., "Add project analytics to track project popularity.")
+- **(Improvement 1)**: Get server space with the school and use student information for profiles.
 - **(Improvement 2)**: (Describe, e.g., "Introduce skill endorsements from other users.")
 - **(Improvement 3)**: (Describe, e.g., "AI-based recommendations for project ideas and collaborators.")
 
