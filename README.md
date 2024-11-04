@@ -1,4 +1,4 @@
-# Project Title: (Personal Project Forum)
+# Personal Project Forum
 
 ## Overview
 This project is to make a forum where students can collaborate with eachother to come up with and create personal projects. These projects will greatly increase confidence, knowledge, and skill within their desired field, based on the projects that are worked on and posted in this forum.
