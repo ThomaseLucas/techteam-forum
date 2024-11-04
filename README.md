@@ -1,18 +1,17 @@
 # Project Title: (Personal Project Forum)
 
 ## Overview
-(Describe the purpose of the project in a few sentences. For example: "This project is an online forum where users can share, brainstorm, and collaborate on project ideas. The goal is to help people connect over shared interests, work together on projects, and add completed work to their portfolios.")
+This project is to make a forum where students can collaborate with eachother to come up with and create personal projects. These projects will greatly increase confidence, knowledge, and skill within their desired field, based on the projects that are worked on and posted in this forum.
 
 ## Objectives
-- **(Objective 1)**: (Explain the objective, e.g., "Create a space for users to connect and collaborate on projects.")
-- **(Objective 2)**: (Explain the objective, e.g., "Help users discover new project ideas and join existing ones.")
-- **(Objective 3)**: (Explain the objective, e.g., "Allow users to showcase completed projects on their portfolios.")
+- **(Objective 1)**: (Have a platform that students users to post their ideas/problems, and a way to connect with students (i.e. link to a discord channel).)
+- **(Objective 2)**: (Try and integrate our idea into the school's website.)
+- **(Objective 3)**: (Information page about the major.)
 
 ## Key Features
-- **User Profiles**: (Describe, e.g., "Users can create profiles, list their skills, and display their projects.")
-- **Project Submission**: (Describe, e.g., "Users can submit new project ideas and invite collaborators.")
-- **Collaboration Tools**: (Describe, e.g., "Tools for project discussion and task management.")
-- **Portfolio Integration**: (Describe, e.g., "Link completed projects to external portfolios or create one within the platform.")
+- **User Profiles**: (Hopefully eventually link with school's profile system)
+- **Project Submission**: (Post projects on a forum page for other to discover)
+- **Collaboration Tools**: (Link discord channels, adds to personal portfolios through GitHub)
 
 ## Tech Stack
 - **Frontend**: (e.g., "React for user interface, Bootstrap for design.")
