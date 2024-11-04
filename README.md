@@ -31,4 +31,4 @@ This project is to make a forum where students can collaborate with eachother to
 - **(Improvement 3)**: (Describe, e.g., "AI-based recommendations for project ideas and collaborators.")
 
 ## Conclusion
-i-projectpro will be a website that allows students to get connected and use their skills in colaboration to create personal projects. This for the work force and interships. It will also help students develop soft skills by working in a team.
+i-collaborate will be a website that allows students to get connected and use their skills in colaboration to create personal projects. This for the work force and interships. It will also help students develop soft skills by working in a team.
